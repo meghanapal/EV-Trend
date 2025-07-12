@@ -37,8 +37,9 @@ STEP 2: KEY VISUALISATIONS USING TABLEAU
         Line Chart: Year-over-year EV growth
         Bar + Lollipop Charts: Country-wise performance
         Heatmaps & Tree Maps for comparative insights 
-        
-        https://public.tableau.com/app/profile/meghana.pal4000/viz/EVTrend/Dashboard1?publish=yes
+
+
+### 🔗 Dashboard Link       https://public.tableau.com/app/profile/meghana.pal4000/viz/EVTrend/Dashboard1?publish=yes
 https://drive.google.com/file/d/17wJQ497i-Ch1f3gq74ixO24j6kbyV7Bn/view?usp=drive_link
 Above is the link attached to my dashboard
 
