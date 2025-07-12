@@ -1,6 +1,23 @@
-# EV-Trend
-a data-driven project exploring the global landscape of electric vehicles (EVs) using real-world data from the IEA Global EV Dataset (2024). 
-This dashboard provides visual insights into EV adoption patterns, powertrain composition, regional trends, and year-wise growth, helping stakeholders understand the dynamics shaping the electric mobility revolution.
+# ⚡ EV Adoption Analysis (2024)
+
+An end-to-end data analysis project exploring global Electric Vehicle (EV) adoption trends using real-world data from IEA.
+
+## 📊 Key Highlights
+- Performed detailed EDA in Python (Google Colab) on global EV dataset from IEA.
+- Created compelling Tableau dashboards: Powertrain composition, Regional spread, Category-wise trends.
+- Delivered actionable insights around EV usage, powertrain share, and regional adoption growth.
+
+## 🚀 Tools & Tech
+- Python (Pandas, Matplotlib)
+- Tableau
+- Google Colab
+- GitHub
+
+## 📎 Dataset
+- [IEA Global EV Data 2024 (Kaggle)](https://www.kaggle.com/datasets)
+
+## 📸 Preview
+![Dashboard Screenshot](dashboard_preview.png)
 
 
 
